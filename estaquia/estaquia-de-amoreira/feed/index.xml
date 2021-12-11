@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentários sobre: Estaquia de Amoreira	</title>
+	<atom:link href="/estaquia/estaquia-de-amoreira/feed/" rel="self" type="application/rss+xml" />
+	<link>/estaquia/estaquia-de-amoreira/</link>
+	<description>Tudo o que você precisa saber sobre o cultivo de plantas!</description>
+	<lastBuildDate>Sat, 11 Dec 2021 18:04:26 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+</channel>
+</rss>
